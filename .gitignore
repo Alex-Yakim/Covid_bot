@@ -1,0 +1,5 @@
+.idea/
+config.py
+env/
+parser.py
+__pycache__/
